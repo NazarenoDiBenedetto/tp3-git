@@ -12,6 +12,7 @@ $Pporhora = $sueldo/$horas;
      <meta charset="UTF-8">
     </head>
     <body>
+     <h1>Paga por hora </h1>
      <?php echo "<p>Se te paga la hora = $Pporhora </p>"; ?>
     </body>
 </html>
